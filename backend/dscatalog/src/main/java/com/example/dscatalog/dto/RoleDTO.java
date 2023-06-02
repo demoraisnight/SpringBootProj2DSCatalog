@@ -2,8 +2,6 @@ package com.example.dscatalog.dto;
 
 import com.example.dscatalog.entities.Role;
 
-import java.io.Serializable;
-
 public class RoleDTO {
 
 

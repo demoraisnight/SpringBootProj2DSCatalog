@@ -4,7 +4,6 @@ import com.example.dscatalog.entities.Category;
 import com.example.dscatalog.entities.Product;
 
 import javax.validation.constraints.*;
-import java.io.Serializable;
 import java.time.Instant;
 import java.util.ArrayList;
 import java.util.List;
